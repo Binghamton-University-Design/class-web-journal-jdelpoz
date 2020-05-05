@@ -1,83 +1,142 @@
 {
 "key" :
-  { 
-    "Do you  eat breakfast?": {
+  {
+    "It is important to protect and preserve the world we live in.": {
       "x" : 0,
       "y" : 0,
-      "always" : "1_always.png",
-      "often" : "1_often.png",
-      "sometimes" : "1_sometimes.png",
-      "hardly ever" : "1_hardly-ever.png",
-      "never" : "1_never.png",
+      "Strongly agree" : "1-stronglyagree.png",
       "is_text" : false
     },
-    "What is your first beverage of the day?": {
-      "x" : 30,
-      "y" : 60,
-      "coffee" : "02_coffee.png",
-      "tea" : "02_tea.png",
-      "water" : "02_water.png",
-      "juice" : "02_juice.png",
+    "I bring my own reusable bags to the grocery store.": {
+      "x" : 0,
+      "y" : 0,
+      "Sometimes" : "4-sometimes.png",
+      "Often" : "4-often.png",
+      "Always" : "4-always.png",
       "is_text" : false
     },
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
-      "x" : 263,
-      "y" : 28,
-      "1" : "3-1.png",
-      "2" : "3-2.png",
-      "3" : "3-3.png",
-      "4" : "3-4.png",
-      "5" : "3-5.png",
+    "Rate your personal efforts to be environmentally friendly.": {
+      "x" : 0,
+      "y" : 0,
+      "7" : "2-7.png",
+      "8" : "2-8.png",
+      "9" : "2-9.png",
       "is_text" : false
     },
-    "I can't think unless I have breakfast.": {
-      "x" : 132,
-      "y" : 72,
-      "TRUE" : "4-true.png",
-      "FALSE" : "4-false.png",
+    "I am willing to make lifestyle changes to be more environmentally friendly.": {
+      "x" : 0,
+      "y" : 0,
+      "Agree" : "3-agree.png",
+      "Strongly agree" : "3-stronglyagree.png",
       "is_text" : false
     },
-    "An ideal breakfast would include:": {
-      "x" : 32,
-      "y" : 370,
-      "is_text" : true
+    "I use a reusable water bottle instead of buying bottled water.": {
+      "x" : 0,
+      "y" : 0,
+      "Never" : "5-never.png",
+      "Often" : "5-often.png",
+      "Always" : "5-always.png",
+      "is_text" : false
+    },
+    "I take public transportation, carpool, bike, walk when available.": {
+      "x" : 0,
+      "y" : 0,
+      "Rarely" : "7-rarely.png",
+      "Sometimes" : "7-sometimes",
+      "Often" : "7-often.png",
+      "Always" : "7-always.png",
+      "is_text" : false
+    },
+    "I shop at local farmers markets.": {
+      "x" : 0,
+      "y" : 0,
+      "Never" : "6-never.png",
+      "Rarely" : "6-rarely.png",
+      "Sometimes" : "6-sometimes",
+      "Often" : "6-often.png",
+      "is_text" : false
     }
   },
 "data" : [
   {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "water",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 4,
-    "An ideal breakfast would include:": "egg and cheese"
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Often",
+    "Rate your personal efforts to be environmentally friendly.": 7,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Always",
+    "I take public transportation, carpool, bike, walk when available.": "Sometimes",
+    "I shop at local farmers markets.": "Sometimes",
   },
   {
-    "Do you  eat breakfast?": "never",
-    "I can't think unless I have breakfast.": "FALSE",
-    "What is your first beverage of the day?": "coffee",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
-    "An ideal breakfast would include:": "a bloody mary"
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Always",
+    "Rate your personal efforts to be environmentally friendly.": 8,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Always",
+    "I take public transportation, carpool, bike, walk when available.": "Rarely",
+    "I shop at local farmers markets.": "Never",
   },
   {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "water",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
-    "An ideal breakfast would include:": "Pancakes and strawberry compote"
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Always",
+    "Rate your personal efforts to be environmentally friendly.": 9,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Always",
+    "I take public transportation, carpool, bike, walk when available.": "Often",
+    "I shop at local farmers markets.": "Sometimes",
   },
   {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "coffee",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 5,
-    "An ideal breakfast would include:": "coffee, yogurt, fruit, granola"
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Often",
+    "Rate your personal efforts to be environmentally friendly.": 8,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Never",
+    "I take public transportation, carpool, bike, walk when available.": "Often",
+    "I shop at local farmers markets.": "Never",
   },
   {
-    "Do you  eat breakfast?": "hardly ever",
-    "I can't think unless I have breakfast.": "FALSE",
-    "What is your first beverage of the day?": "juice",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 2,
-    "An ideal breakfast would include:": "Tequila and takis"
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Sometimes",
+    "Rate your personal efforts to be environmentally friendly.": 7,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Always",
+    "I take public transportation, carpool, bike, walk when available.": "Always",
+    "I shop at local farmers markets.": "Rarely",
+  },
+  {
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Often",
+    "Rate your personal efforts to be environmentally friendly.": 8,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Often",
+    "I take public transportation, carpool, bike, walk when available.": "Sometimes",
+    "I shop at local farmers markets.": "Sometimes",
+  },
+  {
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Often",
+    "Rate your personal efforts to be environmentally friendly.": 7,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Often",
+    "I take public transportation, carpool, bike, walk when available.": "Rarely",
+    "I shop at local farmers markets.": "Rarely",
+  },
+  {
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Always",
+    "Rate your personal efforts to be environmentally friendly.": 7,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Always",
+    "I take public transportation, carpool, bike, walk when available.": "Always",
+    "I shop at local farmers markets.": "Sometimes",
+  },
+  {
+    "It is important to protect and preserve the world we live in.": "Strongly agree",
+    "I bring my own reusable bags to the grocery store.": "Often",
+    "Rate your personal efforts to be environmentally friendly.": 8,
+    "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
+    "I use a reusable water bottle instead of buying bottled water.": "Always",
+    "I take public transportation, carpool, bike, walk when available.": "Sometimes",
+    "I shop at local farmers markets.": "Often",
   }
 ]
-}
