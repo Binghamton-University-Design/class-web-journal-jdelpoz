@@ -42,7 +42,7 @@
       "x" : 0,
       "y" : 0,
       "Rarely" : "7-rarely.png",
-      "Sometimes" : "7-sometimes",
+      "Sometimes" : "7-sometimes.png",
       "Often" : "7-often.png",
       "Always" : "7-always.png",
       "is_text" : false
@@ -52,7 +52,7 @@
       "y" : 0,
       "Never" : "6-never.png",
       "Rarely" : "6-rarely.png",
-      "Sometimes" : "6-sometimes",
+      "Sometimes" : "6-sometimes.png",
       "Often" : "6-often.png",
       "is_text" : false
     }
@@ -65,7 +65,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
     "I use a reusable water bottle instead of buying bottled water.": "Always",
     "I take public transportation, carpool, bike, walk when available.": "Sometimes",
-    "I shop at local farmers markets.": "Sometimes",
+    "I shop at local farmers markets.": "Sometimes"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -74,7 +74,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
     "I use a reusable water bottle instead of buying bottled water.": "Always",
     "I take public transportation, carpool, bike, walk when available.": "Rarely",
-    "I shop at local farmers markets.": "Never",
+    "I shop at local farmers markets.": "Never"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -83,7 +83,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
     "I use a reusable water bottle instead of buying bottled water.": "Always",
     "I take public transportation, carpool, bike, walk when available.": "Often",
-    "I shop at local farmers markets.": "Sometimes",
+    "I shop at local farmers markets.": "Sometimes"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -92,7 +92,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
     "I use a reusable water bottle instead of buying bottled water.": "Never",
     "I take public transportation, carpool, bike, walk when available.": "Often",
-    "I shop at local farmers markets.": "Never",
+    "I shop at local farmers markets.": "Never"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -101,7 +101,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
     "I use a reusable water bottle instead of buying bottled water.": "Always",
     "I take public transportation, carpool, bike, walk when available.": "Always",
-    "I shop at local farmers markets.": "Rarely",
+    "I shop at local farmers markets.": "Rarely"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -110,7 +110,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
     "I use a reusable water bottle instead of buying bottled water.": "Often",
     "I take public transportation, carpool, bike, walk when available.": "Sometimes",
-    "I shop at local farmers markets.": "Sometimes",
+    "I shop at local farmers markets.": "Sometimes"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -119,7 +119,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Strongly agree",
     "I use a reusable water bottle instead of buying bottled water.": "Often",
     "I take public transportation, carpool, bike, walk when available.": "Rarely",
-    "I shop at local farmers markets.": "Rarely",
+    "I shop at local farmers markets.": "Rarely"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -128,7 +128,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
     "I use a reusable water bottle instead of buying bottled water.": "Always",
     "I take public transportation, carpool, bike, walk when available.": "Always",
-    "I shop at local farmers markets.": "Sometimes",
+    "I shop at local farmers markets.": "Sometimes"
   },
   {
     "It is important to protect and preserve the world we live in.": "Strongly agree",
@@ -137,6 +137,7 @@
     "I am willing to make lifestyle changes to be more environmentally friendly.": "Agree",
     "I use a reusable water bottle instead of buying bottled water.": "Always",
     "I take public transportation, carpool, bike, walk when available.": "Sometimes",
-    "I shop at local farmers markets.": "Often",
+    "I shop at local farmers markets.": "Often"
   }
 ]
+}
